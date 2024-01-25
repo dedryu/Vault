@@ -1,0 +1,20 @@
+[[American Politics and the US Constitution (MOC)]]
+## Federalist No. 10
+One of the major arguments between the Federalists and the Anti-Federalists was over the role of elites in the national government. The Federalists wanted the national government to remain as strong as possible and to be run by elites who did not necessarily reflect the general population. The Anti-Federalists were suspicious of a government run by elites and feared that the wealthy would come to dominate national politics. In other words, they believed that the wealthy would become a **faction**, which would prove divisive to the country.
+
+The Federalists addressed the fear of factions in _Federalist_, no. 10. In this essay, James Madison (1787) argued that there was no need to fear the power of factions because the diversity that existed in the country was so large that it would not allow for the development of large political interest groups. In addition to the diversity within the nation, Madison argued that having a representative government would be the best way to control against the harmful effects of factions. Since factions were impossible to remove without taking away people's freedom to express their opinions and organize, the only solution was to attempt to control their potential effects.
+
+Madison argued that this was the necessity of representative government. Having a direct democracy would open the door to tyranny by the majority opinion. He reasoned that having a representative form of government would allow the people to elect individuals who would not make decisions based on their own self-interests. For the Federalists, the best solution to guard against factions was representative government.
+
+## Federalist No. 51
+While factions were the subject of _Federalist,_ no. 10, **checks and balances** and **separation of powers** were the focus of _Federalist_, no. 51. The Anti-Federalists feared that the national government under the Constitution would become too powerful, leading to a tyrannical government that would abuse its authority and overpower its people. James Madison used _Federalist_, no. 51 to ease these fears by explaining how checks and balances and separation of powers would prevent the national government from abusing its increased power and authority.
+
+### Separation of Powers
+Separation of powers is the division of governmental authority to each branch of government. In other words, under separation of powers, each branch of government has its own function to perform, which prevents any one branch of government from becoming too powerful. This is why the legislative branch makes the laws, the executive branch enforces the laws, and the judicial branch reviews the laws. Through separation of powers, each branch has its own degree of independence. While separation of powers gives each branch its own measure of independence, checks and balances requires a level of interdependence.
+
+### Checks and Balances
+Checks and balances allow each branch of government to have influence over how the other branches of government operate and do their jobs. Checks and balances can be seen in almost every operation of the national government. Because of this unique system of checks and balances, the U.S. government has built-in restraints over the function of each branch of government and the individuals within these branches. With _Federalist_, no. 51, Madison (1788) argued why increasing the powers of the national government would not necessarily lead to an automatic abuse of power because of separation of powers and checks and balances.
+
+## Key Terms
+- **separation of powers:** the division of a government's powers among three separate branches of government, managed by different groups of people; in the United States, the three branches of government are legislative, executive, and judicial
+- **checks and balances:** extra constitutional powers that allow each branch of government to limit the use of power of the other two branches or approve their actions; this system requires different parts of government to work together and find agreement in order to accomplish new official actions

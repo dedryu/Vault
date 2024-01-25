@@ -1,0 +1,70 @@
+[[American Politics and the US Constitution (MOC)]]
+## The Great Compromise
+The national legislature, or [[Congress]], was created in Article I of the [[Constitution]]. The job of the national legislature is to make laws, which is an important responsibility. Some would even argue it is the most important responsibility within the government.
+
+All the delegates knew how important the legislative branch of government was, and they fought so that this branch of government would find the right balance among competing ideologies. After debating over whether the [[Virginia Plan]] or the [[New Jersey Plan]] would be better for the nation's legislature, the framers of the Constitution had ultimately arrived at what is called the [[Great Compromise]], or the Connecticut Compromise, suggested by Roger Sherman of Connecticut.  
+  
+According to the Great Compromise:
+- Congress would be a bicameral legislature and would consist of two chambers: the Senate and the [[House of Representatives]]
+- each state, regardless of size, would have two senators, making for equal representation as in the New Jersey Plan
+- representation in the House would be based on a state's population
+- senators were to be appointed by state legislatures, reflecting a variation of the Virginia Plan
+- members of the House of Representatives would be popularly elected by the voters in each state
+- elected members of the House would be limited to two years in office before having to seek reelection, and those appointed to the Senate by each state's legislature would serve a term of six years
+
+Article I of the Constitution not only discusses the structure of the legislative branch, but it also details its specific powers:  
+- Congress was given great power, including the power to tax, maintain an army and a navy, and regulate trade and commerce.
+- Congress had authority that the national government lacked under the Articles of Confederation.
+- The legislative branch could also coin and borrow money, grant patents and copyrights, declare war, and establish laws regulating naturalization and bankruptcy.
+
+While legislation (laws) could be proposed by either chamber of Congress, laws had to pass both the House and Senate by a majority vote before being sent to the president to be signed into law, and all bills to raise revenue had to begin in the House of Representatives. Only individuals elected by the voters to represent them could impose taxes upon them. There would be no more taxation without representation.
+
+## Slavery and Freedom
+The Great Compromise soon led to another debate. Aside from the debates about representation for large and small states, there was another disagreement that created a strong debate during the Constitutional Convention: slavery.   
+  
+Once it had been decided that representation in the House of Representatives would be based on population, the question of how enslaved people should be counted as a part of the population became very important. Southern states were adamant that enslaved people should be counted, while Northern states were strongly opposed to slavery. They argued that representatives from Southern states could not represent the interests of enslaved people.  
+  
+This debate was not new; it dated back to the American Revolution. Following the Revolution, some of the Northern states had either abolished slavery or created plans where enslaved people would gradually be freed. Pennsylvania, for example, had passed the Act for the Gradual Abolition of Slavery in 1780. All people born in the state to enslaved mothers after the law's passage would become indentured servants to be set free at age 28. In 1783, Massachusetts had freed all enslaved people within the state. Many Americans believed slavery was opposed to the ideals stated in the Declaration of Independence. Others felt it was inconsistent with the teachings of Christianity.  
+  
+Some feared for the safety of the country's white population if the number of enslaved people and white Americans' dependence on them increased. Although some Southerners shared similar feelings, none of the Southern states had abolished slavery, and none wanted the Constitution to interfere with the **institution of slavery**.  
+
+In addition to supporting the agriculture of the South, enslaved people could be taxed as property and counted as population for purposes of a state's representation in the government. The Southern states understood that if enslaved people were not counted, their representation in the House of Representatives would be significantly decreased in comparison to the Northern states since enslaved people made up a significant portion of the South's population. For example, if South Carolina was assigned representatives based solely on its free population, it would receive only half the number it would have received if enslaved people (who made up approximately 43% of the population) were included.
+
+The [[Three-Fifths Compromise]] resolved the problem, though not in a manner that truly satisfied anyone. For the purposes of congressional representation, slaveholding states were allowed to count all their free population, including freed Black people, plus 60 percent (three-fifths) of their enslaved population. To appease the North, the compromise also allowed counting 60 percent of a state's enslaved population for federal taxation, although no such taxes were ever collected.   
+  
+Another compromise regarding the institution of slavery granted Congress the right to tax imports in exchange for a 20-year ban on laws attempting to forbid the importation of enslaved peoples into the United States, which would hurt the economy of Southern states more than the economy of Northern states. Because the Southern states, especially South Carolina, had made it clear they would leave the Convention if abolition were attempted, no serious effort was made by the framers to abolish slavery in the new nation, even though many delegates disapproved of the institution.  
+  
+In fact, the Constitution contained two protections for slavery. Article I postponed the abolition of the foreign slave trade until 1808, and in the meantime, those in slave-holding states were allowed to import as many enslaved people as they wished.2
+
+Furthermore, the Constitution placed no restrictions on the domestic slave trade, so residents of one state could still sell enslaved people to other states. Article IV of the Constitution—which, among other things, required states to return fugitives to the states where they had been charged with crimes—also prevented enslaved people from gaining their freedom by escaping to states where slavery had been abolished. Clause 3 of Article IV (known as the Fugitive Slave Clause) allowed owners of enslaved people to reclaim their human property in the states where enslaved people had fled.3
+
+## Separation of Powers and Checks and Balances
+Congress was given the power to make laws, but the executive branch (consisting of the president and the vice president) and the federal judiciary (especially the Supreme Court) were created to enforce laws and try cases arising under federal law, respectively. Neither of these branches had existed under the Articles of Confederation. Thus, Congress can pass laws, but its power to do so can be checked by the president, who can **veto** potential legislation so that it cannot become a law. (Later, in the 1803 case of _Marbury v. Madison_, the U.S. Supreme Court established its own authority to rule on the constitutionality of laws, a process called judicial review.)
+
+Other examples of **checks and balances** include the ability of Congress to limit the president's veto. Should the president veto a bill passed by both houses of Congress, the bill is returned to Congress to be voted on again. If the bill passes both the House of Representatives and the Senate with a two-thirds vote in its favor, it becomes law even though the president has refused to sign it.
+
+In addition, Congress is also able to limit the president's power as commander in chief of the armed forces by refusing to declare war or provide funds for the military. (To date, Congress has never refused a president's request for a declaration of war.) The president must also seek the advice and consent of the Senate before appointing members of the Supreme Court and ambassadors, and the Senate must approve the ratification of all treaties signed by the president. Congress may even remove the president from office. To do this, both chambers of Congress must work together. The House of Representatives impeaches the president by bringing formal charges against him or her, and the Senate tries the case in a proceeding overseen by the Chief Justice of the Supreme Court. The president is removed from office if found guilty.
+
+According to political scientist Richard Neustadt, the system of separation of powers and checks and balances not only allows one part of government to control another, but it also encourages the branches to cooperate. Instead of a true **separation of powers**, the Constitutional Convention "created a government of separated institutions sharing powers."
+
+For example, knowing the president can veto a law that they disapprove of, Congress will attempt to draft a bill that addresses the president's concerns before sending it to the White House for signing. Similarly, knowing that Congress can override a veto, the president will use this power sparingly.
+
+## Separation of Powers and Checks and Balances
+The strongest guarantee that the power of the national government would be restricted and the states would retain a degree of sovereignty was the framers' creation of a **federal system** of government. In a federal system, power is divided between the federal (or national) government and the state governments.
+
+Explicit powers, called **enumerated powers**, were granted to the federal government to declare war, impose taxes, coin and regulate currency, regulate foreign and interstate commerce, raise and maintain an army and a navy, maintain a post office, make treaties with foreign nations and with Native peoples, and make laws regulating the naturalization of immigrants. All powers not expressly given to the national government, however, were intended to be used by the states. These powers are known as **reserved powers**. So, states remained free to pass laws regarding things like intrastate commerce (commerce within the borders of a state) and marriage. Some powers, such as the right to levy taxes, were given to both the state and federal governments. Both the states and the federal government have a chief executive to enforce the laws (a governor and the president, respectively) and a system of courts.
+
+Although the states retained a considerable degree of sovereignty, the supremacy clause in Article VI of the Constitution declared that the Constitution, laws passed by Congress, and treaties made by the federal government were "the supreme Law of the Land."1 In the event of a conflict between the states and the national government, the national government would triumph.  
+  
+Furthermore, although the federal government was limited to powers enumerated in the Constitution, Article I provided for the expansion of congressional powers if needed. The "necessary and proper" clause of Article I provides that Congress may "make all Laws which shall be necessary and proper for carrying into Execution the foregoing enumerated Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof." The Constitution also gave the federal government control over all "Territory or other Property belonging to the United States." This would prove problematic when, as the United States expanded westward and population growth led to an increase in the power of the Northern states in Congress, the federal government sought to restrict the expansion of slavery into newly acquired territories.
+
+## Key Terms
+- **Great Compromise:** also known as the Connecticut Compromise; a 1787 agreement that created a bicameral legislature in the new United States, with representation based on population in the House of Representatives and equal representation of states in the Senate
+- **Three-Fifths Compromise:** during the creation of the U.S. Constitution, an agreement made between Northern and Southern states that required counting all of a state's free population and 60 percent of its enslaved population for the twin purposes of federal taxation and representation in Congress
+- **institution of slavery:** the establishment and practice of enslaving people by depriving them of liberty, extracting free labor, treating them as property, and usually subjecting them to harsh, inhumane conditions
+- **veto:** the power of a president to reject a law passed by Congress; the Latin term meaning "I forbid"
+- **checks and balances:**  constitutional powers that allow each branch of government to limit the use of power of the other two branches or approve their actions; this system requires different parts of government to work together and find agreement in order to accomplish new official actions
+- **separation of powers:** the division of a government's powers among three separate branches of government, managed by different groups of people; in the United States, the three branches of government are legislative, executive, and judicial
+- **federal system:** a form of government in which power is divided between state governments and a national government
+- **enumerated powers:** powers given explicitly to the federal government by the Constitution in Article I, Section 8; the powers to regulate interstate and foreign commerce, raise and support armies, declare war, coin money, and conduct foreign affairs
+- **reserved powers:** any powers not prohibited by the Constitution or delegated to the national government; powers reserved to the states and denied to the federal government as outlined in the 10th Amendment
